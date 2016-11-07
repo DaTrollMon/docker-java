@@ -138,3 +138,4 @@ In `$HOME/.docker-java.properties`
 
 In the class path at `/docker-java.properties`
     
+test
